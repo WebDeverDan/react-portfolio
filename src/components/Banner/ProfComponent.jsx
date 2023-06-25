@@ -21,7 +21,7 @@ const ProfComponent = () => {
       <Slide direction="right">
         <Profile>
           <img
-            src="/images/Daniel_Bradley.8b243bd5.jpg"
+            src="./react-portfolio/images/Daniel_Bradley.8b243bd5.jpg"
             alt="profile"
             class="profile-photo"
           />

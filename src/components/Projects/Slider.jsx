@@ -27,7 +27,7 @@ let data = [
         img : "https://res.cloudinary.com/app-photo-storage/image/upload/v1687650904/eupky20kmobti7fsf1u3.png",
         disc : "A Daily Planning App",
         name: "Daily Planner",
-        url: "hhttps://webdeverdan.github.io/Daily-Planner/",
+        url: "https://webdeverdan.github.io/Daily-Planner/",
     }
 ];
 
