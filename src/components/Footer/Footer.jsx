@@ -80,7 +80,7 @@ const Profile = styled.div`
   .address {
     padding: 1rem 0;
     h1 {
-      font-size: 1.2rem;
+      font-size: 1.9rem;
     }
 
     p {
@@ -94,7 +94,7 @@ const Profile = styled.div`
 
   .links {
     h1 {
-      font-size: 1.2rem;
+      font-size: 1.9rem;
       margin-bottom: 0.5rem;
     }
 

@@ -91,6 +91,8 @@ const Profile = styled.div`
     filter: drop-shadow(0 0 0.75rem #9ab0c9);
     transition: transform 400ms ease-in-out;
     padding: 1em;
+    padding-top: 1em;
+    margin-top: 3em;
     
     @media (max-width: 790px) {
       width: 20rem;
@@ -104,7 +106,7 @@ const Profile = styled.div`
       width: 100%;
     }
   }
-  :hover img {
-    transform: translateY(-10px);
-  }
+  // :hover img {
+  //   transform: translateY(-10px);
+  // }
 `;
