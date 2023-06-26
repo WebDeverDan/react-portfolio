@@ -90,6 +90,7 @@ const Profile = styled.div`
     width: 20rem;
     filter: drop-shadow(0 0 0.75rem #9ab0c9);
     transition: transform 400ms ease-in-out;
+    padding: 1em;
     
     @media (max-width: 790px) {
       width: 20rem;

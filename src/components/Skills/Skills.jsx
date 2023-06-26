@@ -5,9 +5,9 @@ import { Slide } from "react-awesome-reveal";
 const Skills = () => {
   return (
     <Container id="skills">
-      <Slide direction="down">
+      {/* <Slide direction="down"> */}
         <h1>My Tools</h1>
-      </Slide>
+      {/* </Slide> */}
       <br/>
       <Slide direction="left" id="tools">
             <p>Ruby on Rails | Javascrip | JQuery | Node | React | HTML | CSS | Bootstrap | PostgreSQL | MySQL | Github | Bitbucket | Heroku | Digital Ocean</p>

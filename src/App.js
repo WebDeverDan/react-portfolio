@@ -9,7 +9,7 @@ function App() {
   return (
     <Container>
       <Banner>
-        <Header />
+        {/* <Header /> */}
         <ProfComponent />
       </Banner>
       <Services />

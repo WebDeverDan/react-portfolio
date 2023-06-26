@@ -15,9 +15,9 @@ const Footer = () => {
     <Container id="footer">
       <Profile>
         <div className="links">
-          <Slide direction="left">
+          {/* <Slide direction="left"> */}
             <h1>Contact:</h1>
-          </Slide>
+          {/* </Slide> */}
           <div>
             <Slide direction="left">
               <span>

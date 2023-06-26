@@ -8,9 +8,9 @@ import { Slide } from "react-awesome-reveal";
 const Services = () => {
   return (
     <Container id="service">
-      <Slide direction="down">
+      {/* <Slide direction="down"> */}
         <h1>My Services</h1>
-      </Slide>
+      {/* </Slide> */}
       <Cards>
         <Slide direction="up">
           <Card
