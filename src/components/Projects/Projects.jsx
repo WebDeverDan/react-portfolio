@@ -6,8 +6,8 @@ import { Zoom } from 'react-awesome-reveal';
 const Projects = () => {
   return (
     <Container id='project'>
-        <Zoom>
             <h1>Recent Projects</h1>
+        <Zoom>
             <p>Personal and bootcamp projects from 2021 to present.</p>
         </Zoom>
         <Slide>
