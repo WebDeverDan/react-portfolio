@@ -22,7 +22,7 @@ const Services = () => {
         <Slide direction="left">
           <Card
             Icon={MdDesignServices}
-            title={"Web Consultantation"}
+            title={"Web Consultation"}
             disc={`Project consultation covering scope of project, tools needed, costs, and maintainence strategies.`}
           />
         </Slide>

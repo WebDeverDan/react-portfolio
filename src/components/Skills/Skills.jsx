@@ -4,7 +4,7 @@ import { Slide } from "react-awesome-reveal";
 
 const Skills = () => {
   return (
-    <Container id="service">
+    <Container id="skills">
       <Slide direction="down">
         <h1>My Tools</h1>
       </Slide>

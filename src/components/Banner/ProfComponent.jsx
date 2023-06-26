@@ -35,7 +35,7 @@ export default ProfComponent;
 
 const Container = styled.div`
   display: flex;
-  padding-top: 8rem;
+  padding-top: 2rem;
   width: 80%;
   max-width: 1280px;
   margin: 0 auto;
